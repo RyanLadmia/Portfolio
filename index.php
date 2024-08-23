@@ -6,8 +6,8 @@
     <?php include 'includes/_header.php'; ?>
     <main>
         <section>
-            <p>blabla</p>
-            <p>blabla</p>
+            <p></p>
+            <p></p>
         </section>
     
     </main>
