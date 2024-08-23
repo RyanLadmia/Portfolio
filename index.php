@@ -6,6 +6,9 @@
     <?php include 'includes/_header.php'; ?>
     <main>
         <section>
+            
+        </section>
+        <section>
             <h2>Mes Projets :</h2>
             <a>Fansite</a><!-- + Images -->
             <a>App-Favorite</a>
