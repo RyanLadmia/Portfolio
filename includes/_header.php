@@ -1,10 +1,10 @@
 <header>
     <nav>
         <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>Portfolio</li>
+            <li>CV</li>
+            <li>About</li>
+            <li>Contact</li>
         </ul>
     </nav>
 </header>
