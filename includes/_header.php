@@ -1,11 +1,11 @@
 <header>
     <nav>
         <ul>
-            <li>Portfolio</li>
-            <li>CV</li>
-            Logo avec lettre RL et slogan?
-            <li>Contact</li>
-            <li>Langues</li><!-- menu deroulant pour choisir la langue (avec image drapeau)-->
+            <li><a>Portfolio</a></li>
+            <li><a>CV</a></li>
+            <img src="Assets/medias/pictures/RL-logo.png">
+            <li><a>Contact</a></li>
+            <li><a>Langues</a></li><!-- menu deroulant pour choisir la langue (avec image drapeau)-->
         </ul>
     </nav>
 </header>
