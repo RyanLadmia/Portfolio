@@ -3,8 +3,8 @@
         <ul>
             <li>Portfolio</li>
             <li>CV</li>
-            <li>About</li>
             <li>Contact</li>
+            <li>Langues</li><!-- menu deroulant pour choisir la langue (avec image drapeau)-->
         </ul>
     </nav>
 </header>
