@@ -5,7 +5,7 @@
 <body>
     <?php include '../includes/_header.php'; ?>
     <main>
-
+    
     </main>
     <?php include '../includes/_footer.php'; ?>
 </body>
