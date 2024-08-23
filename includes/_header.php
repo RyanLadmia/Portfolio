@@ -1,11 +1,11 @@
 <header>
     <nav>
         <ul>
-            <li><a>Portfolio</a></li>
-            <li><a>CV</a></li>
+            <li><a href="index.php">Portfolio</a></li>
+            <li><a href="Curriculum Vitae/index.php">CV</a></li>
             <img src="Assets/medias/pictures/RL-logo.png">
-            <li><a>Contact</a></li>
-            <li><a>Langues</a></li><!-- menu deroulant pour choisir la langue (avec image drapeau)-->
+            <li><a href="contact.php">Contact</a></li>
+            <li>Langues</li><!-- menu deroulant pour choisir la langue (avec image drapeau)-->
         </ul>
     </nav>
 </header>
