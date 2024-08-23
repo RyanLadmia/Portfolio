@@ -1,14 +1,17 @@
 <header>
-    <nav>
-        <ul>
-            <li><a href="index.php">Portfolio</a></li>
-            <li><a href="Curriculum Vitae/index.php">CV</a></li>
-            <img src="Assets/medias/pictures/RL-logo.png">
-            <li><a href="contact.php">Contact</a></li>
-            <li>Langues</li>
-            <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
-                <section>Français</section>
-                <section>Anglais</section><!-- menu deroulant pour choisir la langue (avec image drapeau)-->
-        </ul>
-    </nav>
-</header>
+        <nav>
+            <ul class="navbar">
+                <li><a href="index.php">Portfolio</a></li>
+                <li><a href="index.php">CV</a></li>
+                <li><img src="Assets/medias/pictures/RL-logo.png" alt="Logo"></li>
+                <li><a href="contact.php">Contact</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropbtn">Langues</a>
+                    <ul class="dropdown-content">
+                        <li><a href="#">Français</a></li>
+                        <li><a href="#">Anglais</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </header>
