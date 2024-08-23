@@ -5,7 +5,10 @@
 <body>
     <?php include 'includes/_header.php'; ?>
     <main>
-        <section></section>
+        <section>
+            <p>blabla</p>
+            <p>blabla</p>
+        </section>
     
     </main>
     <?php include 'includes/_footer.php'; ?>
