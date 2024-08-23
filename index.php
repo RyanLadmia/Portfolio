@@ -6,8 +6,11 @@
     <?php include 'includes/_header.php'; ?>
     <main>
         <section>
-            <p></p>
-            <p></p>
+            <h2>Mes Projets :</h2>
+            <p>Fansite</p>
+            <p>App-favorite</p>
+            <p>Module de connexion</p>
+            <p>Livre d'or</p>
         </section>
     
     </main>
