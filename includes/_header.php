@@ -3,7 +3,7 @@
             <ul class="navbar">
                 <li><a href="index.php">Portfolio</a></li>
                 <li><a href="index.php">CV</a></li>
-                <li><img class="logo" src="Assets/medias/pictures/RL-logo.png" alt="Logo"></li>
+                <li><img class="dev" src="Assets/medias/pictures/dev.png" alt="Logo"></li>
                 <li><a href="contact.php">Contact</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropbtn">Langues</a>

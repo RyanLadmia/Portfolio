@@ -6,7 +6,7 @@
     <?php include 'includes/_header.php'; ?>
     <main>
         <section>
-            
+            <img class="logo" src="Assets/medias/pictures/RL-logo.png">
         </section>
         <section>
             <h2>Mes Projets :</h2>
@@ -14,8 +14,7 @@
             <a>App-Favorite</a>
             <a>Module de connexion</a>
             <a>Livre d'or</a>
-        </section>
-    
+        </section>    
     </main>
     <?php include 'includes/_footer.php'; ?>
 </body>
