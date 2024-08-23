@@ -7,14 +7,10 @@
     <main>
         <section>
             <h2>Mes Projets :</h2>
-            <a></a>
-            <p>Fansite</p>
-            <a></a>
-            <p>App-favorite</p>
-            <a></a>
-            <p>Module de connexion</p>
-            <a></a>
-            <p>Livre d'or</p>
+            <a>Fansite</a><!-- + Images -->
+            <a>App-Favorite</a>
+            <a>Module de connexion</a>
+            <a>Livre d'or</a>
         </section>
     
     </main>
